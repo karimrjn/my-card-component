@@ -1,8 +1,5 @@
-# React + Vite
+Voici mon composant carte, pour le réaliser j'ai choisi le pré-processeur CSS: SASS.
+SASS permet d’utiliser des variables pour stocker des valeurs répétitives, comme les couleurs, les tailles de police, les marges, etc. Ce qui facilite la modification globale de l’apparence du site.
+Il permet également d’imbriquer des règles de style pour mieux organiser et structurer les feuilles de style.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Grâce à ces fonctionnalités, SASS permet de rendre le développement de feuilles de style plus rapide et plus efficace, tout en améliorant la qualité et la maintenabilité du code.
