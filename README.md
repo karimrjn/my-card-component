@@ -6,4 +6,4 @@ Il permet également d’imbriquer des règles de style pour mieux organiser et 
 
 Grâce à ses fonctionnalités, SASS permet de rendre le développement de feuilles de style plus rapide et plus efficace, tout en améliorant la qualité et la maintenabilité du code.
 
-<img src="https://github.com/karimrjn/my-card-component/assets/144689090/753ab9d3-03dc-44f2-a3ce-be5ad19ebcba" width="500" height="500">
+<img src="https://github.com/karimrjn/my-card-component/assets/144689090/753ab9d3-03dc-44f2-a3ce-be5ad19ebcba" width="700" height="700">
